@@ -1,7 +1,7 @@
 ---
 author: BurjanadzeG
 title: xerox-star
-image_url: xerox-star.jpg
+image_url: /images/xerox-star.jpg
 caption: ' Ο Xerox Star, με επίσημη ονομασία Xerox 8010 Information System, 
 είναι ο πρώτος εμπορικός προσωπικός υπολογιστής που ενσωματώνει τεχνολογίες που 
 έκτοτε έχουν γίνει τυπικές σε προσωπικούς υπολογιστές, συμπεριλαμβανομένης
@@ -11,7 +11,9 @@ license_url: 'http://toastytech.com/guis/star_8010.jpg'
 license_text: Wikipedia
 categories:
   - Desktop
+  - Archetype
 tags:
   - Xerox
+  - Xerox Star
 ---
 
